@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/amrutasaraf/upset-usage/blob/master/overlap_moose.tsv",
+	"file": "https://raw.githubusercontent.com/amrutasaraf/upset-usage/master/overlap_moose.tsv",
 	"name": "moose overlap",
 	"header": 0,
 	"separator": "\t",
