@@ -1,8 +1,8 @@
 {
-	"file": "",
-	"name": "Movies Genres",
+	"file": "https://github.com/amrutasaraf/upset-usage/blob/master/overlap_moose.tsv",
+	"name": "moose overlap",
 	"header": 0,
-	"separator": ";",
+	"separator": "\t",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" },
