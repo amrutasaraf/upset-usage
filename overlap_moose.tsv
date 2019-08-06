@@ -1,4 +1,4 @@
-tid	abl	sbl	vp	pp	ani_vel	nafds_ramp	ANI_overall_fraud_score	carrier	score_smoothing	ttg
+tid	abl	sbl	vp	pp	av	ramp	cars	carr	ss	ttg
 4944378	0	0	0	0	0	0	0	0	0	1
 4945412	1	1	0	0	0	0	0	1	0	1
 4947249	0	0	0	0	0	0	0	1	0	1
