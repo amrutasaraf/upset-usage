@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/amrutasaraf/upset-usage/blob/master/test.csv",
+	"file": "https://raw.githubusercontent.com/amrutasaraf/upset-usage/master/test.json",
 	"name": "Movies Genres",
 	"header": 0,
 	"separator": ";",
